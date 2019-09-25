@@ -28,7 +28,7 @@
  #    if array.[index] > x
  #      x = array[index]
  #    end
-    }
+ #    }
     x
  end
  end
