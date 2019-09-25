@@ -26,7 +26,7 @@
 #   x = array[0]
 #   array.length.times do { |index|}
  #    if array.[index] > x
-      x = array[index]
+ #      x = array[index]
     end
     }
     x
